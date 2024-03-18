@@ -6,4 +6,5 @@ Our goal for this project is that we can identify the factors that correlate wit
 # Data Setting:
 Data Link: https://datasets.imdbws.com/
 Datasheet: https://developer.imdb.com/non-commercial-datasets/
+
 This dataset from IMDb shows data collected on film and tv staff, ratings, runtime, and various other factors in relation to movies and tv shows listed in IMDb. Movie and tv titles are represented by codes that are referred to across multiple datasets that display more information on these movies/tv shows.
